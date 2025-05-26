@@ -1,0 +1,12 @@
+Ticker,Aciton,DayCount,Sign,Percantage
+AAPL,TUT,10,-,0.12
+MSFT,HAFİF SAT,10,-,3.16
+AMZN,TUT,10,+,1.88
+GOOGL,SAT,10,-,6.48
+META,SAT,10,-,8.66
+TSLA,GÜÇLÜ SAT,10,-,25.74
+NVDA,HAFİF AL,10,+,3.11
+V,HAFİF SAT,10,-,2.51
+
+
+5y, LSTM

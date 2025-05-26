@@ -1,0 +1,65 @@
+=== HİSSE SENEDİ TAVSİYE RAPORU ===
+
+Tarih: 2025-05-26 21:26:38
+
+Hisse Senedi Tavsiyeleri:
+
+AAPL - TUT
+Mevcut Fiyat: $195.27
+7-Gün Tahmini: $199.29 (%2.06)
+10-Gün Tahmini: $197.20 (%0.99)
+Nedenler:
+  - 10 gün tahmininde %0.99 sınırlı değişim beklentisi
+
+MSFT - TUT
+Mevcut Fiyat: $450.18
+7-Gün Tahmini: $455.87 (%1.26)
+10-Gün Tahmini: $454.34 (%0.92)
+Nedenler:
+  - 10 gün tahmininde %0.92 sınırlı değişim beklentisi
+
+AMZN - SAT
+Mevcut Fiyat: $200.99
+7-Gün Tahmini: $191.36 (%-4.79)
+10-Gün Tahmini: $189.44 (%-5.75)
+Nedenler:
+  - 10 gün tahmininde %5.75 düşüş beklentisi
+
+GOOGL - HAFİF SAT
+Mevcut Fiyat: $168.47
+7-Gün Tahmini: $165.79 (%-1.59)
+10-Gün Tahmini: $161.94 (%-3.88)
+Nedenler:
+  - 10 gün tahmininde %3.88 negatif getiri
+
+META - AL
+Mevcut Fiyat: $627.06
+7-Gün Tahmini: $658.16 (%4.96)
+10-Gün Tahmini: $671.31 (%7.06)
+Nedenler:
+  - 10 gün tahmininde %7.06 yükseliş beklentisi
+
+TSLA - GÜÇLÜ SAT
+Mevcut Fiyat: $339.34
+7-Gün Tahmini: $306.22 (%-9.76)
+10-Gün Tahmini: $281.59 (%-17.02)
+Nedenler:
+  - 10 gün tahmininde %17.02 düşüş riski
+  - RSI (75.42) aşırı alım bölgesinde
+  - Yakın dönemde oynaklık bekleniyor
+
+NVDA - GÜÇLÜ SAT
+Mevcut Fiyat: $131.29
+7-Gün Tahmini: $129.51 (%-1.36)
+10-Gün Tahmini: $117.70 (%-10.35)
+Nedenler:
+  - 10 gün tahmininde %10.35 düşüş riski
+  - RSI (78.08) aşırı alım bölgesinde
+  - Yakın dönemde oynaklık bekleniyor
+
+V - HAFİF SAT
+Mevcut Fiyat: $353.54
+7-Gün Tahmini: $345.04 (%-2.40)
+10-Gün Tahmini: $338.15 (%-4.35)
+Nedenler:
+  - 10 gün tahmininde %4.35 negatif getiri
