@@ -17,6 +17,18 @@ Key features:
 - Model evaluation with train-test splits and one-day-ahead prediction  
 - Portfolio optimization based on predicted prices (using genetic algorithm)  
 - Visualization of results and performance metrics  
+- Telegram bot integration for sending notifications and updates about predictions  
+
+---
+
+## Telegram Bot Integration
+
+The project includes a Telegram bot (`app/telegram_bot.py`) that enables users to receive notifications and interact with the forecasting system through Telegram.  
+Features include:
+
+- Sending forecast results and alerts directly to users via Telegram messages  
+- Simple command interface for querying model predictions  
+- Easy setup using Telegram Bot API token stored securely via environment variables  
 
 ---
 
@@ -31,4 +43,4 @@ Key features:
 | `matplotlib`, `seaborn` | Data visualization and plotting |
 | `deap`               | Genetic algorithm for portfolio optimization |
 | `TA-Lib` / custom code | Technical indicators calculation |
-
+| `python-telegram-bot` (or `telebot`) | Telegram Bot API integration for notifications |
