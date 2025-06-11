@@ -32,16 +32,3 @@ Key features:
 | `deap`               | Genetic algorithm for portfolio optimization |
 | `TA-Lib` / custom code | Technical indicators calculation |
 
----
-## Folder Structure
-
-Finance-Prediction--Time-Series--/
-│
-├── data/ # Input raw and processed data files
-├── models/ # Model training and saved models
-├── indicators/ # Scripts for technical indicator calculation
-├── optimization/ # Portfolio optimization code using genetic algorithms
-├── notebooks/ # Jupyter notebooks for experimentation
-├── utils/ # Helper functions and utilities
-├── main.py # Main script to run forecasting pipeline
-└── requirements.txt # Project dependencies
