@@ -13,7 +13,7 @@ Key features:
 
 - Data preprocessing and feature engineering for technical indicators  
 - Forecasting asset prices using multiple models including Linear Regression, Support Vector Regression (SVR), K-Nearest Neighbors (KNN), and Long Short-Term Memory networks (LSTM)  
-- Multi-horizon forecasting for 30, 60, 90, 120, and 150 days ahead  
+- Multi-horizon forecasting for ... days ahead  
 - Model evaluation with train-test splits and one-day-ahead prediction  
 - Portfolio optimization based on predicted prices (using genetic algorithm)  
 - Visualization of results and performance metrics  
